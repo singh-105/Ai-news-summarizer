@@ -1,43 +1,41 @@
 # Monthly AI News Summary
 
-Here are the AI news articles summarized in markdown format:
-
-### 2025-06-07
-- Consumer watchdog directs ecommerce platforms to conduct self-audits to eliminate deceptive practices [https://yourstory.com/2025/06/consumer-watchdog-directs-ecommerce-platforms-to-conduct-self-audits](https://yourstory.com/2025/06/consumer-watchdog-directs-ecommerce-platforms-to-conduct-self-audits)
-
-### 2025-06-04
-- Meraqui: Building Bharat's Workforce OS with Tech, Trust, and Vision [https://yourstory.com/2025/06/meraqui-workforce-ai-platform-india](https://yourstory.com/2025/06/meraqui-workforce-ai-platform-india)
-- Easiofy Solutions: Pioneering AI-Driven Diagnostics in India's Heartland [https://yourstory.com/2025/06/easiofy-solutions-ai-driven-diagnostics-india](https://yourstory.com/2025/06/easiofy-solutions-ai-driven-diagnostics-india)
-- Why Looking Poor Is Important: The Psychology of Wealth in Disguise [https://yourstory.com/2025/06/why-looking-poor-is-important-psychology-of-wealth](https://yourstory.com/2025/06/why-looking-poor-is-important-psychology-of-wealth)
-- Quick commerce unicorn Zepto unlikely to go public in 2026 [https://yourstory.com/2025/06/zepto-quick-commerce-unicorn](https://yourstory.com/2025/06/zepto-quick-commerce-unicorn)
-- 7 Non-fiction books so bold they deserve a warning label [https://yourstory.com/2025/06/7-non-fiction-books-bold](https://yourstory.com/2025/06/7-non-fiction-books-bold)
-- Inside Myntra’s fashion playbook; Marico’s D2C gameplan [https://yourstory.com/2025/06/myntra-fashion-playbook-marico-d2c-gameplan](https://yourstory.com/2025/06/myntra-fashion-playbook-marico-d2c-gameplan)
-- Startup news and updates: daily roundup (June 3, 2025) [https://yourstory.com/2025/06/startup-news-updates-daily-roundup-june-3-2025](https://yourstory.com/2025/06/startup-news-updates-daily-roundup-june-3-2025)
-
-### 2025-05-30
-- Building India’s AI-Ready Workforce: The Launch of Mirai School of Technology [https://www.thehansindia.com/business/building-indias-ai-ready-workforce-the-launch-of-mirai-school-of-technology-975549](https://www.thehansindia.com/business/building-indias-ai-ready-workforce-the-launch-of-mirai-school-of-technology-975549)
-
-### 2025-05-25
-- Business Tech News: Google Rolls Out A Bunch Of AI Tech At It’s I/O Conference [https://www.forbes.com/sites/quickerbettertech/2025/05/25/business-tech-news-google-rolls-out-a-bunch-of-ai-tech-at-its-io-conference/](https://www.forbes.com/sites/quickerbettertech/2025/05/25/business-tech-news-google-rolls-out-a-bunch-of-ai-tech-at-its-io-conference/)
-
-### 2025-05-28
-- Next-gen AI pitchbook rival Finnish Inven grabs $12.75 for its first AI-native deal sourcing platform [https://techfundingnews.com/next-gen-ai-pitchbook-rival-finnish-inven-grabs-12-75-for-its-first-ai-native-deal-sourcing-platform/](https://techfundingnews.com/next-gen-ai-pitchbook-rival-finnish-inven-grabs-12-75-for-its-first-ai-native-deal-sourcing-platform/)
-
-### 2025-05-24
-- Expert warns just 20 cloud images can make an AI deepfake video of your child | Fox News [https://www.foxnews.com/tech/fox-news-ai-newsletter-expert-warns-just-20-cloud-images-can-make-ai-deepfake-video-your-child](https://www.foxnews.com/tech/fox-news-ai-newsletter-expert-warns-just-20-cloud-images-can-make-ai-deepfake-video-your-child)
-
-### 2025-05-18
-- Business Tech News: Klarna Reverses On AI, Says Customers Like Talking To People [https://www.forbes.com/sites/quickerbettertech/2025/05/18/business-tech-news-klarna-reverses-on-ai-says-customers-like-talking-to-people/](https://www.forbes.com/sites/quickerbettertech/2025/05/18/business-tech-news-klarna-reverses-on-ai-says-customers-like-talking-to-people/)
-- Teacher's tech tell-all goes viral Welcome to Fox News’ Artificial Intelligence newsletter with the latest AI technology advancements. [https://www.foxnews.com/tech/ai-newsletter-teachers-tech-tell-all-goes-viral](https://www.foxnews.com/tech/ai-newsletter-teachers-tech-tell-all-goes-viral)
-
-### 2025-05-11
-- Business Tech News: Microsoft Is Pushing The Business Benefits Of AI [https://www.forbes.com/sites/quickerbettertech/2025/05/11/business-tech-news-microsoft-is-pushing-the-business-benefits-of-ai/](https://www.forbes.com/sites/quickerbettertech/2025/05/11/business-tech-news-microsoft-is-pushing-the-business-benefits-of-ai/)
-
-### 2025-05-29
-- Grammarly secures $1 billion from General Catalyst to build AI productivity platform [https://www.reuters.com/business/grammarly-secures-1-billion-general-catalyst-build-ai-productivity-platform-2025-05-29](https://www.reuters.com/business/grammarly-secures-1-billion-general-catalyst-build-ai-productivity-platform-2025-05-29)
-
-### 2025-05-26
-- AI models can't tell time or read a calendar, study reveals | Live Science [https://www.livescience.com/technology/artificial-intelligence/ai-models-cant-tell-time-or-read-a-calendar-study-reveals](https://www.livescience.com/technology/artificial-intelligence/ai-models-cant-tell-time-or-read-a-calendar-study-reveals)
-
-### 2025-05-16
-- An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai [https://www.reuters.com/business/grammarly-secures-1-billion-general-catalyst-build-ai-productivity-platform-2025-05-29](https://www.reuters.com/business/grammarly-secures-1-billion-general-catalyst-build-ai-productivity-platform-2025-05-29)
+### **2026-06-13**
+- [India can win in AI deployment despite lagging in advanced chips: Neelkanth Mishra](https://www.indiasnews.net/news/279107388/india-can-win-in-ai-deployment-despite-lagging-in-advanced-chips-neelkanth-mishra)
+### **2026-06-09**
+- [India File: India overtaken as South Korea, Taiwan ride AI wave | Reuters](https://www.reuters.com/world/india/india-file-india-overtaken-south-korea-taiwan-ride-ai-wave-2026-06-09/)
+- [India's IT industry revenue reached $282.6 billion in FY 2025, with AI capabilities being a key indicator for capital market](https://eu.36kr.com/en/p/3845187005155588)
+### **2026-06-07**
+- [Trump on motorbike in India? US President Donald Trump has amplified a highly surreal, artificial intelligence-generated music video across his social media network](https://www.tribuneindia.com/news/top-headlines/trump-on-motorbike-in-india-his-ai-world-tour-video-praising-self-sparks-buzz/)
+### **2026-06-04**
+- [India and South Africa hold meeting to scale up bilateral cooperation in AI, digital infrastructure and advanced manufacturing](https://tele.net.in/india-and-south-africa-hold-meeting-to-scale-up-bilateral-cooperation-in-ai-digital-infrastructure-and-advanced-manufacturing/)
+### **2026-06-11**
+- [Opendoor exits India: AI is transforming outsourcing](https://zamin.uz/en/technology/206446-opendoor-exits-india-ai-is-transforming-outsourcing.html)
+### **2026-06-01**
+- [Alphabet to Raise $80 Billion for Artificial Intelligence Infrastructure](https://zamin.uz/en/technology/204662-alphabet-to-raise-80-billion-for-artificial-intelligence-infrastructure.html)
+### **2026-05-27**
+- [Global firms use AI at Indian hubs to bring more ad work in-house | Reuters](https://www.reuters.com/business/media-telecom/global-firms-use-ai-indian-hubs-bring-more-ad-work-in-house-2026-05-27/)
+### **2026-05-26**
+- [AI21 Labs Layoffs Announced, Cutting 60% Workforce](https://www.latestly.com/quickly/technology/israel-ai21-labs-layoffs-announced-cutting-60-workforce-7435221.html)
+### **2026-05-25**
+- [The Next AI Frontier: Inside LG Electronics’ Strategic Investment In Arizona’s Tech Transformation](https://www.forbes.com/video/b721c67e-b5f0-4012-9c4b-ee140b5b2211/from-robinhood-to-rockets-baiju-bhatts-new-innovation-frontier/)
+### **2026-05-24**
+- [Trump Shunts Highly Anticipated AI Executive Order—Here’s Why](https://www.forbes.com/video/b721c67e-b5f0-4012-9c4b-ee140b5b2211/from-robinhood-to-rockets-baiju-bhatts-new-innovation-frontier/)
+### **2026-05-23**
+- [AI & Tech Brief: Nvidia CEO joins China trip](https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/05/13/ai-tech-brief-nvidia-ceo-joins-china-trip/)
+### **2026-05-22**
+- [America's Workforce Solution, LLC Assessed "Awardable" for Department of War work in the CDAO's Tradewinds Solutions Marketplace](https://www.prlog.org/13148538-americas-workforce-solution-llc-assessed-awardable-for-department-of-war-work-in-the-cdaos-tradewinds-solutions-marketplace.html)
+### **2026-05-21**
+- [AI & Tech Brief: The AI Influence Machine](https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/05/19/ai-tech-brief-ai-influence-machine/)
+- [Alphabet to Raise $80 Billion for Artificial Intelligence Infrastructure](https://zamin.uz/en/technology/204662-alphabet-to-raise-80-billion-for-artificial-intelligence-infrastructure.html)
+### **2026-05-20**
+- [ATOSS Opens AI Technology Hub in Bengaluru to Drive AI-Powered Workforce Management Solutions](https://sg.finance.yahoo.com/news/atoss-opens-ai-technology-hub-134600687.html)
+- [ATOSS Opens AI Technology Hub in Bengaluru to Drive AI-Powered Workforce Management Solutions](https://wahanariau.com/amp/47228/atoss-opens-ai-technology-hub-in-bengaluru-to-drive-aipowered-workforce-management-solutions)
+### **2026-05-19**
+- [Workday to keep expanding Indian workforce, deepen AI investments, executive says | Reuters](https://www.reuters.com/business/world-at-work/workday-keep-expanding-indian-workforce-deepen-ai-investments-executive-says-2026-05-19/)
+### **2026-05-18**
+- [AI21 Labs Layoffs Announced, Cutting 60% Workforce](https://www.latestly.com/quickly/technology/israel-ai21-labs-layoffs-announced-cutting-60-workforce-7435221.html)
+### **2026-05-14**
+- [Uber to open new technology centers in India](https://zamin.uz/en/technology/201044-uber-to-open-new-technology-centers-in-india.html)
+### **2026-05-13**
+- [AI & Tech Brief: Nvidia CEO joins China trip](https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/05/13/ai-tech-brief-nvidia-ceo-joins-china-trip/)
